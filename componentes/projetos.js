@@ -9,7 +9,7 @@ function projetos(section) {
           <h3>Farol de Alexandria</h3>
           <div class="img-wrapper">
             <img    
-              src="./images/Farol/Farol.jpg"
+              src="./images/Farol/farol.jpg"
               alt="Projeto Alexandria."  
             />
             <div class="buttons">
