@@ -2,7 +2,7 @@ function footer(section) {
   section.innerHTML =
     `<div class="wrapper">
     <div class="col-a">
-      <a class="logo" href="/home.html"> The Big Three </a>
+      <a class="logo" href="/index.html"> The Big Three </a>
 
       <p>
         ©2023 CREDITOS <br>Andrey Cadmo, Danubia Cardoso, Sarah Marques & Adriel Santana <br/>
